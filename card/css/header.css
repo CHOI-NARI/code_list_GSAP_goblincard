@@ -1,0 +1,14 @@
+header {
+  width: 100vw;
+  background-color: #efe1de;
+}
+.headernav {
+  width: 80%;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  padding: 20px;
+  color: #284684;
+  font-size: 13px;
+  border-bottom: 1px solid #284684;
+}
